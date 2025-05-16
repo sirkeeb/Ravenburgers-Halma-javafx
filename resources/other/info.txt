@@ -1,0 +1,23 @@
+Rules of 2-Player Halma
+
+Halma is a strategic board game played on a square board with the objective of moving all of one's pieces into the opponent's starting corner.
+
+- Each player begins with **19** pieces (often represented as pawns or checkers).
+- One player starts in the bottom-left corner, and the other in the top-right.
+- The goal is to move all pieces into the opponent’s starting corner before they do the same.
+
+**Movement Rules**
+
+- A piece can move **one space** in any direction: horizontally, vertically, or diagonally.
+- A piece can also **jump** over adjacent pieces (either its own or the opponent's) in a straight line, landing in the next empty space.
+- Jumping is optional, but multiple jumps can be chained in a single turn if possible.
+
+**Winning Condition**
+- The first player to move all their pieces into the opponent’s starting corner **wins** the game.
+- If both players complete their moves in the same turn, the game is a **draw**.
+
+**Strategy Tips**
+- Use jumping to move pieces faster across the board.
+- Spread out pieces early to create multiple jumping opportunities.
+- Block your opponent’s progress while maintaining access to your own destination.
+

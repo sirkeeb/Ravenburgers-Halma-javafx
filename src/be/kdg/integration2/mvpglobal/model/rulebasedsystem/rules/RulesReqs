@@ -1,0 +1,25 @@
+FACTS/rules for the player and computer's pieces
+>Can move to a cell in any direction that is one cell close
+        >If one of those cells are occupied, jump over it so go 2 cells in that direction
+
+rules for the computer
+    >ALWAYS move the piece within 2 moves of entering the opposing base
+        >UNLESS that base piece is occupied
+
+    >If the human player has a piece within 1 of the base, Prioritize moving other pieces
+
+    >GOODMOVE
+        >If a piece can go two spaces instead of 1 towards the opposing base
+        >If the piece goes away from the opponents piece so they cant jump
+        >If the piece enters the opposing base
+
+
+    >BADMOVE
+        >IF the pieces stay within the base for ten turns
+            >ALWAYS focus on getting them out after turn ten
+        >Going towards an opposing piece so they can jump
+
+
+WIN CONDITION
+    >Have a majority of your pieces in the opposing base
+        >13 pieces, have 7 in the others
